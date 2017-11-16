@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ContadorAsyncTask</string>
+    <string name="textoBoton1">COMENZAR CONTADOR</string>
+    <string name="textoBoton2">PARAR CONTADOR</string>
 </resources>
